@@ -1,5 +1,5 @@
 // Configuración de conexión con Google Sheets y WhatsApp
-const SHEET_URL = "https://opensheet.elk.sh/19QBT3RhdLP-EtrG3tLg0a-uE-EeQfCLmwJJWZgcD3IM/Hoja1";
+const SHEET_URL = "https://opensheet.elk.sh/1pMSdJTNHXYcoL2tu_BjN08e9-SvxFqNrQ-t6MTVE6kY/Hoja1";
 const TELEFONO_WHATSAPP = "51986730375";
 
 let productosGlobales = [];
